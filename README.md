@@ -26,7 +26,7 @@ To achieve a high forecast accuracy range, we employ several different methods. 
 ![344244406-015ddf5a-1319-41b2-9f67-764884defdbc](https://github.com/user-attachments/assets/1b94da4c-f712-4b05-a76a-d9419eca37c0)
 ![344244422-2443cb93-9ab2-4df8-9670-cfdaaca794a8](https://github.com/user-attachments/assets/9132fc4e-df10-4ed4-8498-d360c7c43a6b)
 ![344244434-05a29459-3f4e-463f-9a3c-d8e59b37f7a7](https://github.com/user-attachments/assets/ca4ed24a-638e-456f-a678-4e460a2378c0)
-
+![344244471-e92293d7-1cf9-4177-8d32-a46e056cd77d](https://github.com/user-attachments/assets/3f799447-9797-4505-a8a6-3a4332555ea8)
 
 
 
